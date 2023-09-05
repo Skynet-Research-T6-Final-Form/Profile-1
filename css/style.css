@@ -1,0 +1,33 @@
+.text-Nihilego{
+    color: rgb(246, 236, 253);
+}
+.bg-Guzzlord{
+    background-color: rgba(0, 0, 0, 0.726);
+}
+.bg-Buzzwole{
+    background-color: rgb(212, 21, 28) !important;
+}
+.profile{
+    height: 500px;
+    float: right;
+    margin-right: 50px;
+}
+.bg-Pheromosa{
+    background-color: rgb(240, 240, 165);
+}
+.footer{
+    text-align: center;
+    color: black;
+}
+.minecraft{
+    float: right;
+    margin-right: 50px;
+    margin-top: 100px;
+}
+.btn{
+    text-decoration: none;
+    text-underline-offset: none;
+}
+.ms_contacto {
+    margin-left: 100px;
+}
